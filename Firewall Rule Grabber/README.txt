@@ -1,0 +1,1 @@
+Drag any .xml files resulting from an nmap network scan into this folder and then enter their names when asked for them in the code.
